@@ -1,0 +1,68 @@
+
+
+Team - Lead , Senior QA (Myself) , Two more Member.
+✅ 1. **Pre-Kickoff / Initial Onboarding**
+
+* 📞 Attend **project introduction calls** with client/stakeholders.
+* 🧾 Understand project scope, domain, application type (web/API/mobile).
+* 🎯 Identify high-level business goals and expectations from QA.
+
+ ✅ 2. **KT Sessions (Knowledge Transfer)**
+
+* 🗂️ Attend KT from BA/Product Owner or Dev team.
+* 📚 Study existing documentation: BRD, FRS, user stories, API contracts.
+* 🔍 Explore staging/test environments and tools used (Jira, Postman, Git, etc.).
+* 📸 Take screenshots/notes for flow understanding and future reference.
+
+ ✅ 3. **Zero Sprint (QA Setup Phase)**
+
+This phase focuses on QA planning and preparation before development starts.
+
+* 🛠️ Set up QA tools: Test case repository, Postman, Git, test data access.
+* 📋 Create folder structure for test cases, bugs, test reports.
+* 🔗 Align with dev team for API documentation (Swagger/Postman).
+* 🔐 Ensure access to required tools, environments, DB (if needed).
+
+ ✅ 4. **Client Expectation Alignment**
+
+* 📅 Discuss and agree on deliverables from QA in each sprint (test cases, bug reports, QA sign-off).
+* ⏱️ Share tentative QA timelines aligned with sprint goals.
+* ⚠️ Communicate potential risks, dependencies, and assumptions.
+* 📣 Set clear expectation on reporting format (daily stand-up, defect summary, weekly status report).
+
+✅ 5. **Test Planning**
+
+* 🧠 Analyze all user stories and APIs to identify testable items.
+* ✅ Prepare **Test Strategy** – scope, test types (manual, API, regression), environments.
+* 🔄 Create **Requirement Traceability Matrix (RTM)**.
+* 💼 Finalize estimation and test effort breakdown per sprint/module.
+
+ ✅ 6. **Sprint Planning Participation**
+
+* 🔍 Review sprint backlog with dev and product team.
+* 🎯 Identify QA tasks/stories for the sprint.
+* ⏳ Provide QA estimates for testing efforts.
+* 🧪 Plan for test case writing (parallel or post-development based on clarity).
+
+ ✅ 7. **QA Test Design & Environment Setup**
+
+* ✍️ Start writing test scenarios/cases based on user stories.
+* 📁 Organize test cases module-wise (Excel/TestLink/Xray/etc.).
+* ⚙️ Set up API collections and environment in Postman.
+* 🧪 Smoke test APIs using Swagger/Postman to validate backend readiness.
+
+✅ 8. **During Sprint Execution**
+
+* 🚦Perform Smoke → Functional → Regression Testing on features delivered.
+* 🐞 Log defects in Jira with detailed reproduction steps and severity/priority.
+* 🔁 Retest after fixes and update bug status.
+* 🗒️ Participate in daily stand-up meetings and QA sync-ups.
+
+✅ 9. **Sprint Closure Activities**
+
+* 📤 Share test summary report + bug trend report.
+* ✅ Perform regression and sanity testing.
+* 📄 Provide QA sign-off for the sprint.
+* 📚 Update test cases and RTM as per finalized flows.
+
+
