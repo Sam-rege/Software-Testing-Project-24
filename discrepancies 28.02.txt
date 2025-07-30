@@ -1,0 +1,31 @@
+discrepancies from today's demo call:  
+
+ **UI Issues  
+1. **Mailing Address** - There's no space in the sentence.  
+2. **Address Format** - It appears as "address>" instead of the correct format.  
+3. **State Dropdown** - The dropdown icon is too close to the text.  
+4. **Zip Code** - Only "Zip" is displayed instead of "Zip Code."  
+5. **Unexpected ">" Symbols** - The ">" sign appears randomly on the UI.  
+6. **Spacing Issue** - No space between "Home" and "Address" in "Mailing Address."  
+7. **Ethnicity Field** - No gap between the text box and the label.  
+8. **Hispanic Question** - The dropdown sign appears opposite; check spelling in reports.  
+9. **Loan Servicer** - Is there a Zip Code field on the page?  
+10. **Amount Paid Field** - Different currencies are appearing.  
+
+
+12. **Recent Updates Section** - No profile details are being displayed.  
+13. **Start Date Field** - Has a date text box with an "X" and calendar icon—verify if correct. - cosmetic 
+14. **File Upload** - Unable to upload files; currently in development.  
+15. **Total Debt Field** - Should it be non-editable?  
+16. **Attestation Tab** - Needs further clarification (XXXXX).  
+17. **State Field** - Is it dynamic or static?  
+18. **Checkbox Issue** - "I understand" checkbox—is this how it should behave?  
+
+-------------------------- 
+19. **API Design** - Should there be different APIs for different features?  
+20. **Payload Issue** - Data is not being sent properly; Record ID is missing.  
+------------------------------- 
+21. **Capitalization** - Sentences inside parentheses should start with a capital letter.  
+22. **MaasHealth Formatting** - Why is it written this way?  
+**Development Environment Stabl  
+
