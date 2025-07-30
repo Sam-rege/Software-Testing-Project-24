@@ -1,0 +1,195 @@
+1) **Call center partner**  verify clicks on the **Ticket ID** link on **Ticket list view** page  user  navigated to the  **Ticket detail page**. 
+
+1. Verify Click on a **Ticket ID** link in the **Ticket List View**.
+2. Click on a Ticket ID link and check if ticket details are displayed correctly.
+3. Verify **Ticket ID** link is visible.
+4. Verify link redirects to the correct page.
+5. Verify link opens in the same tab.
+6. Verify link is clickable.
+
+2)  **Call center partner** verify the  **Non-Editable** fields as listed below.
+
+1. Verify that the non-editable field does not allow user input or modification.
+2. Verify that the system displays the expected value for as per user input.
+3. Verify that the value is displayed in the expected format.
+
+
+
+3) **Call center partner**  verify the **Assign to** dropdown by following these steps:
+
+1. Verify drop-down is visible or not after page load.
+2. Verify value in drop-down .
+3. User verify single select Option or Multi-select.
+4. Verify that the dropdown is initially hidden/closed.
+5. Check that all expected options present in the dropdown list.
+6. Verify that the dropdown is closed after selecting an option.
+7. Verify  that clicking outside the dropdown collapses the list of options.
+8. Verify that the Assign to dropdown displays a list of available staff members and the currently assigned user is pre-selected.
+9. Verify that the Assign to dropdown only displays active users.
+
+4) **Call center partner*** verify ** Resolution Notes** text-area by following steps:- 
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable.
+4. Verify ECP(Equivalence class partitioning) for textbox.
+5. Verify BVA(Boundary value Analysis) for textbox.
+6. Verify the Placeholder text in textbox.
+7. Verify the Placeholder text after enter some value in textbox.
+8. Verify the Placeholder text after removing value in textbox.
+9. Verify the Cursor navigate to the new line after hitting Enter button.
+10. Verify by enter **More than 500 char**.
+
+5) **Call center partner**  verify the **Status** dropdown by following these steps:
+
+1. Verify drop-down is visible or not after page load.
+2. Verify value in drop-down .
+3. User verify single select Option or Multi-select.
+4. Verify that the dropdown is initially hidden/closed.
+5. Check that all expected options present in the dropdown list.
+6. Verify that the dropdown is closed after selecting an option.
+7. Verify  that clicking outside the dropdown collapses the list of options.
+8. Verify that the Assign to dropdown displays a list of available staff members and the currently assigned user is pre-selected.
+9. Verify that the Assign to dropdown only displays active users.
+
+6) **Call center partner**  verify the **Activity** Log by following steps:-
+
+
+1. Verify **activity** is visible or not after page load.
+2. Verify the log and display ticket **activity** updates whenever a change is made.
+3. Verify that the activity log displays the correct Name, User Role, and Timestamp.
+4. Verify the timestamp format follows "dd/MM/yyyy hh:mm:ss AM/PM".
+5. Verify if the activity log updates with the latest action performed by a user.
+
+7) **Call center partner**  verify the **Cancel** Button by following steps:-
+
+1. Verify that the button displays the correct text label.
+2. Verify that the button follows the specified styling (e.g., colors, fonts, borders).
+3. Ensure that the button responds on clicks.
+4. Ensure that clicking the button triggers the correct action or event.
+5. Ensure that double-clicking the button does not trigger unintended actions.
+
+8) **Call center partner**  verify the **Update & Save** Button by following steps:-
+
+1. Verify that the button displays the correct text label.
+2. Verify that the button follows the specified styling (e.g., colors, fonts, borders).
+3. Ensure that the button responds on clicks.
+4. Ensure that clicking the button triggers the correct action or event.
+5. Verify **Update and Save** button update the Ticket details .
+------------------------------------
+1)  **Call Center Partner** should be able to verify **Ticket Detail Page** for the selected **Ticket ID** without any errors.
+
+1. User should be navigated to the  **Ticket Detail Page**.
+2. The **Ticket Detail Page** should show the correct details of the selected ticket.
+3. The "Ticket ID" link should be visible on the listing page.
+4. The link should redirect to the **Ticket Details page**.
+5. Page should be open in same tab.
+6. Link should be clickable.
+
+
+2) **Call center partner**  should verify the the fields mentioned below (Non editable) on **Ticket details page**.
+
+> - Ticket ID
+> - Created By
+> - Origin 
+> - Contact Number
+> - Personal Email Address
+> - Person ID
+> - First Name
+> - Middle Name
+> - Last Name
+> - Program Number & Name
+> - Notes section
+> - Created Date
+> - Created Time (EST)
+
+1. The field should be  unchanged when attempting to type, paste, or modify its content.
+2. the system should displays the correct value for as per user input.
+3. value should be displayed in the expected format.
+
+
+3) **Call center partner**  system should be able to verify  the **Assign to** drop-down by following steps:
+
+1. **Assign to**  drop-down should be visible after page load. Drop-down appears within **1 second** after page load.
+2. In drop-down should shows values as expected .
+3. User should able to select **single option** only.
+4. Dropdown should be **initially hidden/closed**.
+5. All expected options should be present in the dropdown list.
+6. Dropdown should be closed after selecting an option.
+7. If the user clicks outside the dropdown area, the dropdown should close without selecting any value.
+8. The Assign to dropdown shows a list of available staff members with the currently assigned user pre-selected.
+9. The Assign to dropdown shows only active users, with deactivated users not visible in the list.
+
+4)  **Call center partner**  should be able to verify  **Resolution Notes** text-area by following steps:- 
+
+1. It should be **Mandatory** field.
+2. **Notes** text-area should be visible after page. Textbox appears within **1 second** after page load.
+3. It should be **Editable**.
+4. Text box should accepts **all types of characters (letters, numbers, special characters, spaces)**.It should allow all types of characters.
+5. Text box should accepts **Maximum - 500 Char**.
+6. Placeholder text should be **Enter notes**.
+7. Placeholder text should be removed.
+8. Placeholder text should be reappeared again after removing text from textbox.
+9. Cursor should be moved to new line after hitting enter button & user should be add notes in new line.
+10. User should get the error. 
+
+5) **Call center partner**  system should be able to verify  the **Status** drop-down by following steps:
+
+1. **Status**  drop-down should be visible after page load. Drop-down appears within **1 second** after page load.
+2. In drop-down should shows values as expected .
+3. User should able to select **single option** only.
+4. Dropdown should be **initially hidden/closed**.
+5. All expected options should be present in the dropdown list: - **Not started , closed , Awaiting Participant Action , In Progress , Assign to Mass League**
+6. Dropdown should be closed after selecting an option.
+7. If the user clicks outside the dropdown area, the dropdown should close without selecting any value.
+8. The Assign to dropdown shows a list of available staff members with the currently assigned user pre-selected.
+9. The Assign to dropdown shows only active users, with deactivated users not visible in the list.
+
+6) **Call center partner**  should be verify  **Activity**  Log by following steps:-
+
+1. **Activity**  log should be visible after page load.
+2. The log and display ticket **Activity**  should be updates whenever a change is made to the ticket.
+3. The **Activity** log should accurately show the Name, User Role, and Timestamp in the correct format.  
+4. The timestamp should be displayed in the "DD/MM/YY hh:mm:ss AM/PM" format. 
+5. The most recent activity should appear at the top of the log. 
+
+
+7) **Call center partner**   should  be able to verify the **Cancel** Button by following steps:-
+
+1. Button should displays the correct text label as **Cancel** text with icon.
+2. Button should follows the specified styling (e.g., colors, fonts, borders) as per given design.
+3. Button should responds promptly to clicks.
+4. Clicking the button should trigger the expected action. It should be navigate to **Ticket List** page .
+5. Double-clicking the button should not result in the action being triggered multiple times, or there should be a mechanism to handle it.
+
+8)  **Call center partner**  should be able to  verify the **Update & Save** Button by following steps:-
+
+1. Button should displays the correct text label as **Update & Save** text with icon.
+2. Button should follows the specified styling (e.g., colors, fonts, borders) as per given design.
+3. Button should responds promptly to clicks.
+4. It should be navigate to **Ticket List** page .
+5. **Update and Save** button should be  update & save the Ticket details .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

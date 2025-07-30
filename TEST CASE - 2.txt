@@ -1,0 +1,138 @@
+3)  **Call center partner**  Verify that the   **Created By**  text box displays the expected  **Name**  and is non-editable.
+
+1.  Verify the  **Created By**   text box  is a  Auto-populated field.
+2.  Verify **Created By** text box  Only Logged In user name should be populated in the text box.
+3. Verify the field is Editable or Non-Editable.
+
+4) **Call center partner**  Verify that the  **Origin** drop-down by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify drop-down is visible or not after page load.
+3. Verify value in drop-down .
+4. User verify single select Option or Multi-select.
+5. Verify that the dropdown is initially hidden/closed.
+6. Check that all expected options present in the dropdown list.
+7. Ensure that the dropdown is closed after selecting an option.
+8. Verify the by-default selected value.
+9. Ensure that clicking outside the dropdown collapses the list of options.
+10. Ensure that the dropdown loads options quickly after clicking.
+11. Verify by leaving field as blank.
+
+5) **Call center partner**  verify the  **Contact Number**  textbox by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify text box is visible or not after page load.
+3. Verify text box is editable or non-editable.
+4. Verify ECP(Equivalence class partitioning) for text box.
+5. Verify BVA(Boundary value Analysis) for textbox.
+6. Verify by enter **Valid format number Eg.. (555) 555-1234**.
+7. Verify by enter **Valid format number Eg.. (555) 555-1/1234567890/+912345656**.
+8. Verify by  leaving blank .
+9. Verify the placeholder text.
+
+6) **Call center partner** verify  the **Personal Email Address** textbox by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable.
+4. Verify value in textbox.
+5.Verify ECP(Equivalence class partitioning) for textbox.
+6. Verify email id as valid.
+8. Verify by  leaving blank .
+9. Verify by enter Invalid email id.
+10. Verify the placeholder text.
+
+7) **Call center partner** verify  the **Person ID**  textbox by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable.
+4. Verify value in textbox.
+5.Verify ECP(Equivalence class partitioning) for textbox.
+6. Verify email id as valid.
+7. Verify **Person ID**  to be auto-populated based on email address or phone number. 
+8. Verify **Person ID** populate correctly as per Manage profile page.
+
+8)   **Call center partner** verify  the **First Name** textbox by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable.
+4. Verify value in textbox.
+5. Verify ECP(Equivalence class partitioning) for textbox.
+6. Verify BVA(Boundary value Analysis) for textbox.
+7. Verify the **Placeholder** text in textbox.
+8. Verify the **Placeholder** text after enter some value in textbox.
+9. Verify the **Placeholder** text after removing value in textbox.
+
+9)  **Call center partner** verify  the **Last Name** textbox by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable.
+4. Verify value in textbox.
+5. Verify ECP(Equivalence class partitioning) for textbox.
+6. Verify BVA(Boundary value Analysis) for textbox.
+7. Verify the **Placeholder** text in textbox.
+8. Verify the **Placeholder** text after enter some value in textbox.
+9. Verify the **Placeholder** text after removing value in textbox.
+
+10)  **Call center partner**  verify **Middle Name** textbox by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable. 
+4. Verify ECP(Equivalence class partitioning) for textbox.
+5. Verify BVA(Boundary value Analysis) for textbox.
+6. Verify the **Placeholder** text in textbox.
+7. Verify the **Placeholder** text after enter some value in textbox.
+8. Verify the **Placeholder** text after removing value in textbox.
+
+11)  **Call center partner**  verify the **Program Number & Name** dropdown  by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify drop-down is visible or not after page load.
+3. Verify value in drop-down .
+4. User verify single select Option or Multi-select.
+5. Verify that the dropdown is initially hidden/closed.
+6. Check that all expected options present in the dropdown list.
+7. Ensure that the dropdown is closed after selecting an option.
+8. Verify the by-default selected value.
+9. Ensure that clicking outside the dropdown collapses the list of options.
+10. Ensure that the dropdown loads options quickly after clicking.
+11. Verify by leaving field as blank.
+
+12)  **Call center partner**  verify the **Reason** dropdown  by following steps:-
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify drop-down is visible or not after page load.
+3. Verify value in drop-down .
+4. User verify single select Option or Multi-select.
+5. Verify that the dropdown is initially hidden/closed.
+6. Check that all expected options present in the dropdown list.
+7. Ensure that the dropdown is closed after selecting an option.
+8. Verify the by-default selected value.
+9. Ensure that clicking outside the dropdown collapses the list of options.
+10. Ensure that the dropdown loads options quickly after clicking.
+11. Verify by leaving field as blank.
+
+13) **Call center partner*** verify **Notes** text-area by following steps:- 
+
+1. Verify Mandatory or Non-Mandatory field.
+2. Verify textbox is visible or not after page load.
+3. Verify textbox is editable or non-editable.
+4. Verify ECP(Equivalence class partitioning) for textbox.
+5. Verify BVA(Boundary value Analysis) for textbox.
+6. Verify the Placeholder text in textbox.
+7. Verify the Placeholder text after enter some value in textbox.
+8. Verify the Placeholder text after removing value in textbox.
+9. Verify the Cursor navigate to the new line after hitting Enter button.
+10. Verify by enter **More than 500 char**.
+
+
+14)   **Call center partner**  verify the Ticket **created date** and  **created time** in EST.
+
+ 1. Verify Ticket created Date Format.
+ 2. Verify Ticket Created Time Format.
+ 3. Verify Ticket created Timestamp Consistency.
+ 4. Verify Ticket created Timestamp Accuracy .
